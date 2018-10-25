@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Introduction on Boilerplate for a Handbook</title>
+    <link>//briangon.github.io/Boilerplate-Docs/</link>
+    <description>Recent content in Introduction on Boilerplate for a Handbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 07 May 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="//briangon.github.io/Boilerplate-Docs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Subpage 1</title>
+      <link>//briangon.github.io/Boilerplate-Docs/subpages/subpage1/</link>
+      <pubDate>Tue, 10 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>//briangon.github.io/Boilerplate-Docs/subpages/subpage1/</guid>
+      <description>Aliquet enim tortor at auctor urna nunc id cursus metus aliquam eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci a scelerisque purus semper.
+Lorem ipsum Fermentum leo vel orci porta non pulvinar neque laoreet suspendisse interdum consectetur libero id faucibus nisl tincidunt eget nullam non nisi est sit amet facilisis.
+ Viverra tellus in hac habitasse platea dictumst vestibulum
+ Viverra tellus in hac habitasse platea dictumst vestibulum</description>
+    </item>
+    
+    <item>
+      <title>Subpage 2</title>
+      <link>//briangon.github.io/Boilerplate-Docs/subpages/subpage2/</link>
+      <pubDate>Tue, 10 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>//briangon.github.io/Boilerplate-Docs/subpages/subpage2/</guid>
+      <description>Aliquet enim tortor at auctor urna nunc id cursus metus aliquam eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci a scelerisque purus semper.
+Lorem ipsum Fermentum leo vel orci porta non pulvinar neque laoreet suspendisse interdum consectetur libero id faucibus nisl tincidunt eget nullam non nisi est sit amet facilisis.
+ Viverra tellus in hac habitasse platea dictumst vestibulum
+ Viverra tellus in hac habitasse platea dictumst vestibulum</description>
+    </item>
+    
+    <item>
+      <title>Subpage 3</title>
+      <link>//briangon.github.io/Boilerplate-Docs/subpages/subpage3/</link>
+      <pubDate>Tue, 10 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>//briangon.github.io/Boilerplate-Docs/subpages/subpage3/</guid>
+      <description>Aliquet enim tortor at auctor urna nunc id cursus metus aliquam eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci a scelerisque purus semper.
+Lorem ipsum Fermentum leo vel orci porta non pulvinar neque laoreet suspendisse interdum consectetur libero id faucibus nisl tincidunt eget nullam non nisi est sit amet facilisis.
+ Viverra tellus in hac habitasse platea dictumst vestibulum
+ Viverra tellus in hac habitasse platea dictumst vestibulum</description>
+    </item>
+    
+    <item>
+      <title>Subpage 4</title>
+      <link>//briangon.github.io/Boilerplate-Docs/subpages/subpage4/</link>
+      <pubDate>Tue, 10 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>//briangon.github.io/Boilerplate-Docs/subpages/subpage4/</guid>
+      <description>Aliquet enim tortor at auctor urna nunc id cursus metus aliquam eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci a scelerisque purus semper.
+Lorem ipsum Fermentum leo vel orci porta non pulvinar neque laoreet suspendisse interdum consectetur libero id faucibus nisl tincidunt eget nullam non nisi est sit amet facilisis.
+ Viverra tellus in hac habitasse platea dictumst vestibulum
+ Viverra tellus in hac habitasse platea dictumst vestibulum</description>
+    </item>
+    
+    <item>
+      <title>Subpage 5</title>
+      <link>//briangon.github.io/Boilerplate-Docs/subpages/subpage5/</link>
+      <pubDate>Tue, 10 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>//briangon.github.io/Boilerplate-Docs/subpages/subpage5/</guid>
+      <description>Aliquet enim tortor at auctor urna nunc id cursus metus aliquam eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci a scelerisque purus semper.
+Lorem ipsum Fermentum leo vel orci porta non pulvinar neque laoreet suspendisse interdum consectetur libero id faucibus nisl tincidunt eget nullam non nisi est sit amet facilisis.
+ Viverra tellus in hac habitasse platea dictumst vestibulum
+ Viverra tellus in hac habitasse platea dictumst vestibulum</description>
+    </item>
+    
+    <item>
+      <title>Markdown Example</title>
+      <link>//briangon.github.io/Boilerplate-Docs/kitchensink/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>//briangon.github.io/Boilerplate-Docs/kitchensink/</guid>
+      <description>Eu ultrices vitae auctor eu augue ut lectus arcu bibendum at varius vel pharetra vel turpis nunc eget lorem dolor sed viverra ipsum nunc aliquet bibendum enim facilisis gravida neque convallis a cras semper auctor neque vitae tempus quam pellentesque nec.
+An h1 header Paragraphs are separated by a blank line.
+2nd paragraph. Italic, bold, and monospace. Itemized lists look like:
+ this one that one the other one  Note that &amp;mdash; not considering the asterisk &amp;mdash; the actual text content starts at 4-columns in.</description>
+    </item>
+    
+    <item>
+      <title>Naming Conventions</title>
+      <link>//briangon.github.io/Boilerplate-Docs/naming/</link>
+      <pubDate>Wed, 22 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>//briangon.github.io/Boilerplate-Docs/naming/</guid>
+      <description>Aliquet enim tortor at auctor urna nunc id cursus metus aliquam eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci a scelerisque purus semper.
+Filenames Camel case for web page names:
+ thisName.php
+ Variations or versions of pages:
+ thisName-version.php
+ Directory names:
+ folder_name
+ Includes are prefixed with an underscore:
+ _includeThisFile.scss
+ Or using the legacy prefix:
+ inc_thisFile.php
+ Variables Use an underscore to separate two word variable names.</description>
+    </item>
+    
+    <item>
+      <title>Single Page</title>
+      <link>//briangon.github.io/Boilerplate-Docs/singlepage/</link>
+      <pubDate>Wed, 22 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>//briangon.github.io/Boilerplate-Docs/singlepage/</guid>
+      <description>Aliquet enim tortor at auctor urna nunc id cursus metus aliquam eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci a scelerisque purus semper.
+Urna neque viverra justo nec ultrices dui sapien eget mi proin sed libero enim sed faucibus turpis in eu mi bibendum neque egestas congue quisque egestas diam in arcu cursus euismod quis viverra nibh cras pulvinar mattis nunc sed blandit libero volutpat sed cras ornare arcu dui vivamus arcu felis bibendum ut tristique et egestas quis ipsum suspendisse ultrices gravida dictum fusce ut placerat orci nulla pellentesque dignissim enim sit amet venenatis urna cursus eget nunc scelerisque viverra mauris in.</description>
+    </item>
+    
+  </channel>
+</rss>

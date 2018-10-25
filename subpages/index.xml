@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>List page on Boilerplate for a Handbook</title>
+    <link>//briangon.github.io/Boilerplate-Docs/subpages/</link>
+    <description>Recent content in List page on Boilerplate for a Handbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Jul 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="//briangon.github.io/Boilerplate-Docs/subpages/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Subpage 1</title>
+      <link>//briangon.github.io/Boilerplate-Docs/subpages/subpage1/</link>
+      <pubDate>Tue, 10 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>//briangon.github.io/Boilerplate-Docs/subpages/subpage1/</guid>
+      <description>Aliquet enim tortor at auctor urna nunc id cursus metus aliquam eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci a scelerisque purus semper.
+Lorem ipsum Fermentum leo vel orci porta non pulvinar neque laoreet suspendisse interdum consectetur libero id faucibus nisl tincidunt eget nullam non nisi est sit amet facilisis.
+ Viverra tellus in hac habitasse platea dictumst vestibulum
+ Viverra tellus in hac habitasse platea dictumst vestibulum</description>
+    </item>
+    
+    <item>
+      <title>Subpage 2</title>
+      <link>//briangon.github.io/Boilerplate-Docs/subpages/subpage2/</link>
+      <pubDate>Tue, 10 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>//briangon.github.io/Boilerplate-Docs/subpages/subpage2/</guid>
+      <description>Aliquet enim tortor at auctor urna nunc id cursus metus aliquam eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci a scelerisque purus semper.
+Lorem ipsum Fermentum leo vel orci porta non pulvinar neque laoreet suspendisse interdum consectetur libero id faucibus nisl tincidunt eget nullam non nisi est sit amet facilisis.
+ Viverra tellus in hac habitasse platea dictumst vestibulum
+ Viverra tellus in hac habitasse platea dictumst vestibulum</description>
+    </item>
+    
+    <item>
+      <title>Subpage 3</title>
+      <link>//briangon.github.io/Boilerplate-Docs/subpages/subpage3/</link>
+      <pubDate>Tue, 10 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>//briangon.github.io/Boilerplate-Docs/subpages/subpage3/</guid>
+      <description>Aliquet enim tortor at auctor urna nunc id cursus metus aliquam eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci a scelerisque purus semper.
+Lorem ipsum Fermentum leo vel orci porta non pulvinar neque laoreet suspendisse interdum consectetur libero id faucibus nisl tincidunt eget nullam non nisi est sit amet facilisis.
+ Viverra tellus in hac habitasse platea dictumst vestibulum
+ Viverra tellus in hac habitasse platea dictumst vestibulum</description>
+    </item>
+    
+    <item>
+      <title>Subpage 4</title>
+      <link>//briangon.github.io/Boilerplate-Docs/subpages/subpage4/</link>
+      <pubDate>Tue, 10 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>//briangon.github.io/Boilerplate-Docs/subpages/subpage4/</guid>
+      <description>Aliquet enim tortor at auctor urna nunc id cursus metus aliquam eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci a scelerisque purus semper.
+Lorem ipsum Fermentum leo vel orci porta non pulvinar neque laoreet suspendisse interdum consectetur libero id faucibus nisl tincidunt eget nullam non nisi est sit amet facilisis.
+ Viverra tellus in hac habitasse platea dictumst vestibulum
+ Viverra tellus in hac habitasse platea dictumst vestibulum</description>
+    </item>
+    
+    <item>
+      <title>Subpage 5</title>
+      <link>//briangon.github.io/Boilerplate-Docs/subpages/subpage5/</link>
+      <pubDate>Tue, 10 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>//briangon.github.io/Boilerplate-Docs/subpages/subpage5/</guid>
+      <description>Aliquet enim tortor at auctor urna nunc id cursus metus aliquam eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci a scelerisque purus semper.
+Lorem ipsum Fermentum leo vel orci porta non pulvinar neque laoreet suspendisse interdum consectetur libero id faucibus nisl tincidunt eget nullam non nisi est sit amet facilisis.
+ Viverra tellus in hac habitasse platea dictumst vestibulum
+ Viverra tellus in hac habitasse platea dictumst vestibulum</description>
+    </item>
+    
+  </channel>
+</rss>
