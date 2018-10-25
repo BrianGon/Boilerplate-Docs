@@ -1,0 +1,36 @@
+baseurl = "//briangon.github.io/Boilerplate-Docs/"
+languageCode = "en-us"
+title = "Boilerplate for a Handbook"
+theme = "hyde"
+metadataformat = "yaml"
+canonifyurls = true
+# Enable Google Analytics by entering your tracking id
+googleAnalytics = ""
+# filesystem path to write files to
+publishDir = "docs"
+ignoreFiles = [ "\\.psd$", "\\.ai$" ]
+
+[params]
+	# General information
+	author = "Brian"
+	description = "Web design handbook and documentation for anything."
+	# copyright = "© 2018. All rights reserved."
+
+	themeColor = "theme-base-0d"
+
+	version = "1.0.0"
+	logo = "/images/logo.png"
+	favicon = ""
+
+	permalink = "#"
+
+	# Custom assets
+	custom_css = []
+	custom_js  = []
+
+	# Syntax highlighting theme
+	highlight_css  = ""
+
+	[params.palette]
+    	primary = "red"
+    	accent  = "teal"
