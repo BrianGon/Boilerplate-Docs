@@ -1,6 +1,8 @@
 #!/bin/sh
 
 DIR=$(dirname "$0")
+PUBLISHDIR="docs"
+REMOTEREPO="github"
 
 cd $DIR
 
@@ -11,13 +13,13 @@ then
 fi
 
 echo "Deleting old publication"
-rm -rf docs
-mkdir docs
+rm -rf $PUBLISHDIR
+mkdir $PUBLISHDIR
 git worktree prune
-rm -rf .git/worktrees/docs/
+rm -rf .git/worktrees/$PUBLISHDIR/
 
-echo "Checking out gh-pages branch into docs"
-git worktree add -B gh-pages docs github/gh-pages
+echo "Checking out gh-pages branch into $PUBLISHDIR"
+git worktree add -B gh-pages $PUBLISHDIR $REMOTEREPO/gh-pages
 
 echo "Removing existing files"
 rm -rf docs/*
@@ -26,7 +28,7 @@ echo "Generating site"
 hugo
 
 echo "Updating gh-pages branch"
-cd docs && git add --all && git commit -m "Publishing to gh-pages (publish.sh)"
+cd $PUBLISHDIR && git add --all && git commit -m "Publishing to gh-pages (.sh command)"
 
 echo "Pushing to the remote repo"
-git push github gh-pages
+git push $REMOTEREPO gh-pages
