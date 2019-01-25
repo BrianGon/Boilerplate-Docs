@@ -8,7 +8,8 @@ canonifyurls = true
 googleAnalytics = ""
 # filesystem path to write files to
 publishDir = "docs"
-ignoreFiles = [ "\\.psd$", "\\.ai$" ]
+ignoreFiles = [ "\\.psd$", "\\.ai$", "PSD/.*" ]
+enableGitInfo = true
 
 [params]
 	# General information
